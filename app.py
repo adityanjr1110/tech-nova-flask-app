@@ -27,6 +27,7 @@ def home():
             <body>
                 <h1>🚀 Hello, TechNova!</h1>
                 <p>Welcome to our Flask-powered web app.</p>
+                <p>Focused on providing more reliable solutions.</p>
                 <p><a href="/about">Learn more</a></p>
             </body>
         </html>
